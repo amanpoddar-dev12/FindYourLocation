@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: lightsteelblue;
+}
+#btnDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 300px;
+}
+#btn {
+  box-shadow: 0px 10px 20px 0px black;
+  border: 0px solid;
+  border-radius: 7px;
+  font-size: 25px;
+  width: 500px;
+  height: 80px;
+  cursor: pointer;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
